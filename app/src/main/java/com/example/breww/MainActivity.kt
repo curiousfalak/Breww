@@ -1,4 +1,4 @@
-gipackage com.example.breww
+package com.example.breww
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
